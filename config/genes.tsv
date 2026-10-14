@@ -1,0 +1,70 @@
+panel	gene	category
+cytoneme	DIAPH1	Receiving
+cytoneme	DIAPH2	Receiving
+cytoneme	DIAPH3	Receiving
+cytoneme	DNM1	Receiving
+cytoneme	DNM2	Receiving
+cytoneme	DNM3	Receiving
+cytoneme	CDC42	Receiving
+cytoneme	RAC1	Receiving
+cytoneme	GABRR1	Receiving
+cytoneme	STRIT1	Receiving
+cytoneme	RAB3A	Receiving
+cytoneme	ITGB1	Receiving
+cytoneme	ITGB2	Receiving
+cytoneme	ITGB3	Receiving
+cytoneme	ITGA1	Receiving
+cytoneme	ITGA2	Receiving
+cytoneme	ILK	Receiving
+cytoneme	LAMA1	Transmitting
+cytoneme	YKT6	Transmitting
+cytoneme	SYT1	Transmitting
+cytoneme	SLC17A6	Transmitting
+cytoneme	SLC17A7	Transmitting
+cytoneme	SLC17A8	Transmitting
+cytoneme	KCNJ12	Transmitting
+cytoneme	ATP5F1A	Transmitting
+cytoneme	CACNA1A	Transmitting
+cytoneme	CACNA1H	Transmitting
+cytoneme	CACNA1I	Transmitting
+cytoneme	TGFB1	Transmitting
+cytoneme	PRICKLE1	Intermediate
+cytoneme	PRICKLE2	Intermediate
+cytoneme	PRICKLE3	Intermediate
+cytoneme	PRICKLE4	Intermediate
+cytoneme	VANGL1	Intermediate
+cytoneme	ATN1	Intermediate
+cytoneme	GPC1	Intermediate
+cytoneme	GPC2	Intermediate
+cytoneme	GPC3	Intermediate
+cytoneme	GPC4	Intermediate
+cytoneme	GPC5	Intermediate
+cytoneme	GPC6	Intermediate
+KD_markers	NANOG	Pluripotency
+KD_markers	POU5F1	Pluripotency
+KD_markers	SOX2	Pluripotency
+KD_markers	SOX17	Germline
+KD_markers	TFAP2C	Germline
+KD_markers	PRDM1	Germline
+KD_markers	NANOS3	Germline
+KD_markers	DAZL	Germline
+KD_markers	DDX4	Germline
+KD_markers	RAC1	Cytoneme
+KD_markers	DIAPH1	Cytoneme
+ACTA_OE_markers	SOX2	Pluripotency
+ACTA_OE_markers	NANOG	Pluripotency
+ACTA_OE_markers	POU5F1	Pluripotency
+ACTA_OE_markers	NODAL	Mesoendoderm
+ACTA_OE_markers	MIXL1	Mesoendoderm
+ACTA_OE_markers	SP5	Mesoendoderm
+ACTA_OE_markers	EOMES	Mesoendoderm
+ACTA_OE_markers	TBXT	Mesoendoderm
+competency_markers	SOX2	Pluripotency
+competency_markers	NANOG	Pluripotency
+competency_markers	POU5F1	Pluripotency
+competency_markers	TBXT	Germline competency
+competency_markers	EOMES	Germline competency
+competency_markers	SP5	Germline competency
+competency_markers	MIXL1	Germline competency
+competency_markers	GATA4	Germline competency
+competency_markers	GATA6	Germline competency
