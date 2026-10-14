@@ -1,0 +1,31 @@
+sample_id	file	group	label_note
+CGS223	CGS223.txt	Control_hESC	source workflow
+CGS224	CGS224.txt	Control_hESC	source workflow
+CGS243	CGS243.txt	Endoderm	PCA label; conflicts with lineage heatmap
+CGS244	CGS244.txt	Endoderm	PCA label; conflicts with lineage heatmap
+CGS247	CGS247.txt	Mesoderm	PCA label; conflicts with lineage heatmap
+CGS248	CGS248.txt	Mesoderm	PCA label; conflicts with lineage heatmap
+CGS266	CGS266.txt	Ectoderm	source workflow
+CGS267	CGS267.txt	Ectoderm	source workflow
+CGS517	CGS517.txt	RAC1_KD	source workflow
+CGS518	CGS518.txt	RAC1_KD	source workflow
+CGS532	CGS532.txt	DIAPH1_KD	source workflow
+CGS533	CGS533.txt	DIAPH1_KD	source workflow
+CGS382	CGS382.txt	ACTA_OE_Control	source workflow
+CGS383	CGS383.txt	ACTA_OE_Control	source workflow
+CGS386	CGS386.txt	ACTA_RFP_OE	source workflow
+CGS387	CGS387.txt	ACTA_RFP_OE	source workflow
+CGS623	CGS623.txt	BFP_pos_ACTA_neg	source workflow
+CGS624	CGS624.txt	BFP_pos_ACTA_neg	source workflow
+CGS625	CGS625.txt	BFP_pos_ACTA_pos	source workflow
+CGS626	CGS626.txt	BFP_pos_ACTA_pos	source workflow
+CGS677	CGS677.txt	BFP_pos_ACTA_pos_sorted	source workflow
+CGS678	CGS678.txt	BFP_pos_ACTA_pos_sorted	source workflow
+CGS185	CGS185.txt	CGS185_186_unconfirmed	Formative_hPGCLC in source; manuscript formative hESC
+CGS186	CGS186.txt	CGS185_186_unconfirmed	Formative_hPGCLC in source; manuscript formative hESC
+CGS235	CGS235.txt	iMeLC	source workflow
+CGS236	CGS236.txt	iMeLC	source workflow
+CGS132	CGS132.txt	hPGCLC	source workflow
+CGS391	CGS391.txt	hPGCLC	source workflow
+SRR1537296	SRR1537296.txt	hPGC	source workflow
+SRR1537297	SRR1537297.txt	hPGC	source workflow
