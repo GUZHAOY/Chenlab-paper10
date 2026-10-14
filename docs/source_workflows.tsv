@@ -1,0 +1,7 @@
+release_script	selected_historical_workflow	consolidation_notes
+01_differential_expression.R	RAC1_KD+DIAPH1_KD/RAC1_KD&DIAPH1_KD*/RAC1.R;DIAPH1.R	Explicit contrasts and manuscript cutoffs; align genes by ID
+02_pca.R	RAC1_KD+DIAPH1_KD/PCA/PCA.R	Retain selected sample groups; compute axis percentages from plotted PCA
+03_expression_heatmaps.R	RAC1_KD+DIAPH1_KD/sqrt_heatmap.R;ATAC_OE_heatmap.R;heatmap*/heatmap.R;CGS675-678/gene heatmap.R	Retain gene panels; explicit samples; correct CPM/TPM labels; keyed gene categories
+04_deg_scatterplots.R	RAC1_KD+DIAPH1_KD/RAC1_KD&DIAPH1_KD*/RAC1.R;DIAPH1.R	Mean ln(TPM+1) axes; correct per-sample TPM division
+05_go_enrichment.R	RAC1_KD+DIAPH1_KD/DEG/DEG+GOterm_DIAPH1_KD.R;DEG+Goterm_RAC1_KD.R	Use consistent significant DEG input; export descriptions and gene lists
+06_kegg_enrichment.R	CGS675-678/control_vs_677678_H1_memBFP_pos_ACTA_mScarlet_pos_sorted/DEG+GO+KEGG+heatmap.R	Separate receiving profiles; upregulated gene input; no merged sorting experiments
