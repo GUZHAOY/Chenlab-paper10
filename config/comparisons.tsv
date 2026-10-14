@@ -1,0 +1,5 @@
+comparison	control	treatment	padj_cutoff	lfc_cutoff
+RAC1_KD_vs_control	CGS223;CGS224	CGS517;CGS518	0.05	2
+DIAPH1_KD_vs_control	CGS223;CGS224	CGS532;CGS533	0.05	2
+ACTA_receiving_initial	CGS623;CGS624	CGS625;CGS626	0.05	2
+ACTA_receiving_sorted	CGS623;CGS624	CGS677;CGS678	0.05	2
